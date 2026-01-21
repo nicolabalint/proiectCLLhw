@@ -11,6 +11,19 @@ Proiectul include:
 
 ---
 
+## Schematic
+
+![Schematic proiect](pics/schematic.png)
+
+---
+
+## Layout PCB
+
+![Layout PCB](pics/pcb.png)
+
+---
+
+
 ## Tehnologii și unelte utilizate
 
 - **KiCad** (schematic + PCB layout)
